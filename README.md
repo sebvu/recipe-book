@@ -4,6 +4,6 @@ This is a project from Foundations of HTML, The Odin Project. This will also ser
 
 I will demonstrate a basic understanding of HTML by making a recipes book.
 
-v2.
+v2 --
 
-I have created an external CSS file, and will be revamping my code by implementing CSS to it.
+Create styles.css, linked all html files to styles. 

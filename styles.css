@@ -1,0 +1,30 @@
+/* Styles */
+
+body {
+    background: rgb(218, 160, 109);
+}
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#maintitle,
+.title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#maintitle {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 45px;
+}
+
+.title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.images {
+    height: 500px;
+    width: auto;
+    border: 5px solid #000
+}
