@@ -7,7 +7,7 @@ This is a project from Foundations of HTML, **The Odin Project**. This will also
 I will demonstrate a basic understanding of programming by making a recipes book.
 
 ## How do you access?
-Use the provided [Github Pages website!](sebvu.github.io/odin-recipes/)
+Use the provided [Github Pages website!](https://sebvu.github.io/recipe-book/)
 
 ## v1
 Implementation of HTML, creating the basis of all web pages.
